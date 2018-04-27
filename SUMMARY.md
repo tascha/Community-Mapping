@@ -19,5 +19,6 @@
   * [Learn About Your Teens](3_the_community_mapping_process/learn_about_your_teens.md)
   * [Learn About Your Community Assets](3_the_community_mapping_process/learn_about_your_community_assets.md)
   * [Section 3 Activities](3_the_community_mapping_process/section_3_activities.md)
+    * [3A. Recording What You Learn](3_the_community_mapping_process/section_3_activities/3a-recording-what-you-learn.md)
 * [4. Now What? ](4_now_what.md)
 

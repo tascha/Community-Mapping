@@ -4,8 +4,7 @@ This section will help you learn to recognize the assets in your community.
 
 <div class="table-format objectives"><span class="title"><h5>LEARNING OBJECTIVES</h5></span>
 After completing Section 2: Community Assets, you will be able to...
-<ul><li>Describe asset-based community development</li><li>
-Recognize the assets in your community</li><ul>
+<ul><li>Describe asset-based community development</li><li>Recognize the assets in your community</li><ul></div>
 
 >“Every living person has some gift or capacity of value to others. A strong community is a place that recognizes those gifts and ensures that they are given. A weak community is a place where lots of people can’t give their gifts and express their capacities.”  <br/> -- Building Communities from the Inside Out: A Path Towards Finding and Mobilizing a Community’s Assets, Kretzmann and McKnight, pg. 27.
 

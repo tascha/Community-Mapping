@@ -44,6 +44,10 @@ iframe {
     text-align: center;
 }
 
+.table-format a {
+    font-weight: bold;
+    }
+
 /* end custom stuff */  
 
 .cell-width {

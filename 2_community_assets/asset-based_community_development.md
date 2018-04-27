@@ -10,7 +10,7 @@ Watch as Cormac Russell explains why it’s important to focus on the strengths 
 <div class="table-format case-study"><span class="title"><h5>GUIDING PRINCIPLES OF ABCD</h5></span>
 <a href="http://www.nurturedevelopment.org/wp-content/uploads/2016/01/Asset-Mapping-CCAMP_System_Handbook.pdf">Ryan & Bourke (2008, p114)</a> set forth the following guiding principles for an asset-based community development effort. 
 <ol><li>Begin with the end in mind.</li><li>Build relationships. </li><li>Build on existing resources. </li><li>Commit to sustainability. </li><li>Start small and place-based. </li><li>Lead by stepping back. </li><li>Support inclusiveness and participation. </li><li>Support mutually beneficial problem solving and goal setting. </li><li>Work to sustain a learning community environment. </li><li>Connect people through stories. </li></ol>
-For more about each principle, see pages 114-115 of the <a href="http://www.nurturedevelopment.org/wp-content/uploads/2016/01/Asset-Mapping-CCAMP_System_Handbook.pdf">CCAMP System Handbook</a>.
+For more about each principle, see pages 114-115 of the <a href="http://www.nurturedevelopment.org/wp-content/uploads/2016/01/Asset-Mapping-CCAMP_System_Handbook.pdf">CCAMP System Handbook</a>.</div>
 
 ### Types of Community Assets
 
