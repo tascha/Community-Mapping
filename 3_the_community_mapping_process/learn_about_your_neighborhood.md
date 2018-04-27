@@ -1,6 +1,9 @@
 ## Learn About Your Neighborhood {#learn-about-your-neighborhood}
 
-> “These are the people in your neighborhood, in your neighborhood, in your neighborhoodOh these are the people in your neighborhoodThey’re the people that you meet when you’re walking down the streetThey’re the people that you meet each day.” <br/> -- Sesame Street
+> “These are the people in your neighborhood, in your neighborhood, in your neighborhood
+Oh these are the people in your neighborhood
+They’re the people that you meet when you’re walking down the street
+They’re the people that you meet each day.” <br/> -- Sesame Street
 
 A guiding principle of ABCD is to keep “citizens” at the center, listening instead of telling, asking questions instead of delivering answers.[^1] Throughout this process, remember who you are doing this for, and keep teens at the center.
 

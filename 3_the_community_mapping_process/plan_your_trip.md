@@ -14,7 +14,7 @@ Questions to think about are:
 <div class="table-format sidebar"><span class="title"><h5>WHAT IS A COMMUNITY?</h5></span>
 
 <iframe width="740" height="400" border="none" src="https://www.youtube.com/embed/3UpOSFL5mq">
-</iframe>
+</iframe></div>
 
 ### Who will help you along the way? {#who-will-help-you-along-the-way}
 
@@ -42,7 +42,7 @@ The community of Danbury, Connecticut came together for an asset mapping project
 While you are planning and assembling your team (if not earlier) try to find out if someone from another organization has conducted a community mapping project before you. If so, try to find out if elements of it can be used in your project. Make sure you have a clear idea of what additional work needs to be done and why--perhaps the information is out of date, or didn’t cover an area you’re interested in.
 
 <div class="table-format sidebar"><span class="title"><h5>EVALUATION</h5></span>
-<p>on’t forget to develop evaluation plans before you start collecting information. You should plan to evaluate the process (so you can know what to do better in the future), the outcome (the results you ended up with) and the impact -- what difference did your project make? </p>
+<p>Don’t forget to develop evaluation plans before you start collecting information. You should plan to evaluate the process (so you can know what to do better in the future), the outcome (the results you ended up with) and the impact -- what difference did your project make? </p>
 <p>For more on evaluation, see the Evaluation and Assessment model.</p></div>
 
 ***

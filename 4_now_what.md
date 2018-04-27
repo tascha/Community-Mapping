@@ -20,7 +20,7 @@ Now that you have a clear picture of the people and assets in your community, wh
 <div class="table-format sidebar"><span class="title"><h5>PHEW, YOU’RE DONE... RIGHT?</h5></span>
 <p>Although we’ve laid out a linear set of steps for a community mapping project, you’ll never be “done” learning about your community. Even within a single mapping effort, you will probably find yourself going back and forth among the concepts covered in other modules—like capacity, or partnerships—and you probably won’t complete steps 1, 2, and 3 as discrete steps. You should continually reference and update your community map as you develop connected learning programs and services for your teens. </p></div>
 
-<div class="table-format additiona.-resources"><span class="title"><h5>ADDITIONAL RESOURCES </h5></span>
+<div class="table-format additional-resources"><span class="title"><h5>ADDITIONAL RESOURCES </h5></span>
 <ul><li><a href="https://www.urbanlibraries.org/filebin/pdfs/ULC_Leadership_Brief_II_Full_4Pages.pdf">Library Priority: Community Civic Engagement</a> (Urban Libraries Council, 2011)</li></ul></div>
 
 ***

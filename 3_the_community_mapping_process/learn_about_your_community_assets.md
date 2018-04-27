@@ -40,9 +40,25 @@ Associations are groups of community members who gather together voluntarily aro
 #### Types of Associations
 Kretzmann & McKnight have identified many different types of associations, including:
 
-| Artistic organizations<br/>Business organizations<br/>Charitable groups &amp; drives <br/>Church groups<br/>Civic event planning committees<br/>Community support groups<br/>Senior groups</br>Health &amp; fitness groups</br>Interest and hobbyist clubs</br>Local media (neighborhood newsletter, etc.)|Neighborhood groups<br/>Outdoor groups</br>Political organizations<br/>School groups<br/>Self-help groups<br/>Service clubs<br/>Sports leagues<br/>Study groups<br/>Veteran groups |
-|---|
-
+* Artistic organizations
+* Business organizations
+* Charitable groups &amp; drives 
+* Church groups
+* Civic event planning committees
+* Community support groups
+* Senior groups
+* Health &amp; fitness groups
+* Interest and hobbyist clubs
+* Local media (neighborhood newsletter, etc.)
+* Neighborhood groups
+* Outdoor groups
+* Political organizations
+* School groups
+* Self-help groups
+* Service clubs
+* Sports leagues
+* Study groups
+* Veteran groups
 
 ### Institutions {#institutions}
 
