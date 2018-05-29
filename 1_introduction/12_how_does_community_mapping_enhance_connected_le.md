@@ -1,6 +1,6 @@
 ## How does community mapping enhance connected learning? {#1-2-how-does-community-mapping-enhance-connected-learning}
 
-|How does community mapping enhance connected learning?||
+|Connected Learning Principles|How Community Mapping Helps|
 |---|
 | **Building Pathways<br/>Production-Centered** | Community mapping can reveal assets to add to the network of resources you help teens connect to. |
 | **Opportunity<br/>Interests<br/>Sponsorship** | Community mapping can tell you what opportunities teens would like to have and help you find support for those opportunities and others. |
