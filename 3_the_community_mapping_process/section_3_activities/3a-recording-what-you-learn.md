@@ -2,6 +2,10 @@
 
 As you learn about the assets in your community from various sources, keep track of what you find! This will make it easier to update the information in the future. You can use the following worksheet to record what you learn:
 
+<a href="/assets/CommunityMapping_3A.docx" target="_blank" >  <i class="fa fa-file-word-o" style="font-size:24px;color:blue;"></i> Download  worksheet (MS Word) </a>
+
+
+
 | **Type of Information** | **Source** | **Last Updated Date** | **Notes** |
 | --- | --- | --- | --- |
 | _Needs assessment report_ | _Library_ | _08/2015_ | _Data needs updating. Includes interviews with teen patrons._ |

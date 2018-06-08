@@ -90,7 +90,6 @@ In addition, consider the following sources when you are identifying assets:
 
 [^2]: Green, Gary Paul. “Community Asset Mapping and Surveys.” In An Introduction to Community Development, edited by Rhonda Phillips and Robert Pittman. New York, NY: Routledge, 2014.
 
-
 [^3]: Rotary International. **[Community Assessment Tools: A Resource for Rotary Projects](https://my.rotary.org/en/document/community-assessment-tools)**. Evanston, IL: Rotary International, 2015.
 
 [^4]: Health DATA Program. “**[Section 1: Asset Mapping](http://healthpolicy.ucla.edu/programs/health-data/trainings/Documents/tw_cba20.pdf)**.” UCLA Center for Health Policy Research, 2005.

@@ -3,7 +3,7 @@
 Now that you’ve completed your community map, you’re done--right? Not so fast! You’ve done a lot of work and now it’s time to use what you’ve learned.
 
 <div class="table-format objectives"><span class="title"><h5>LEARNING OBJECTIVES</h5></span>
-After completing Section 4: Now What? you will be able to:
+<p><b>After completing Section 4: Now What? you will be able to:</b></p>
 <ul><li>Understand what to do with a completed community asset map</li></ul></div>
 
 
@@ -21,10 +21,10 @@ Now that you have a clear picture of the people and assets in your community, wh
 <p>Although we’ve laid out a linear set of steps for a community mapping project, you’ll never be “done” learning about your community. Even within a single mapping effort, you will probably find yourself going back and forth among the concepts covered in other modules—like capacity, or partnerships—and you probably won’t complete steps 1, 2, and 3 as discrete steps. You should continually reference and update your community map as you develop connected learning programs and services for your teens. </p></div>
 
 <div class="table-format additional-resources"><span class="title"><h5>ADDITIONAL RESOURCES </h5></span>
-<ul><li><a href="https://www.urbanlibraries.org/filebin/pdfs/ULC_Leadership_Brief_II_Full_4Pages.pdf">Library Priority: Community Civic Engagement</a> (Urban Libraries Council, 2011)</li></ul></div>
+<ul><li><a href="https://www.urbanlibraries.org/assets/ULC_Leadership_Brief_II_Full_4Pages.pdf">Library Priority: Community Civic Engagement</a> (Urban Libraries Council, 2011)</li></ul></div>
 
 ***
 
-[^1]: CSV Consulting. (2006). _Community engagement in public libraries: A report on current practice and future developments_. London, UK: Museums Libraries Archives Partnership. Retrieved from http://webarchive.nationalarchives.gov.uk/20080727054209/http://www.mla.gov.uk/resources/assets//C/community_engagement_report_9654.pdf
+[^1]: CSV Consulting. “Community Engagement in Public Libraries: A Report on Current Practice and Future Developments.” London, UK: Museums Libraries Archives Partnership, 2006. 
 
-[^12]: Urban Libraries Council. (2011). _Library priority: Community civic engagement_ (Leadership Brief). Urban Libraries Council. Retrieved from https://www.urbanlibraries.org/filebin/pdfs/ULC_Leadership_Brief_II_Full_4Pages.pdf
+[^12]: Urban Libraries Council. “**[Library Priority: Community Civic Engagement](https://www.urbanlibraries.org/assets/ULC_Leadership_Brief_II_Full_4Pages.pdf)**.” Leadership Brief, Fall 2011.
