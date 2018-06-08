@@ -17,7 +17,7 @@ The most foundational assets of a community are the individuals that form it. Ev
     *   Home - communities that you are a part of.
     *   See Ryan &amp; Bourke, 2008, pp. 182 - 189 for more details and worksheets.
 *   When you’re focusing on individuals as assets, your goal will be to help each individual contribute to the community or the library. This is different than if you are talking to individuals to help create a portrait of your community (don’t use the capacity inventory for this). You should avoid making individuals feel “used” or “studied” (Kretzmann &amp; McKnight, 1993, p.17).
-*   **Youth.** As youth librarians, you are more likely than many people to recognize that youth have gifts and capacities to help their communities. Teens may know their communities as well as or better than adults, bring fresh ideas and perspectives to the table, and have connections to schools, families, and other teens. Youth may be seen as more credible than adults to their peers.[^1] _Building Communities from the Inside Out_ provides many suggestions as to how youth can build productive connections with associations, organizations, and other individuals (Chapter 1, pages 33-44).
+*   **Youth.** As youth librarians, you are more likely than many people to recognize that youth have gifts and capacities to help their communities. Teens may know their communities as well as or better than adults, bring fresh ideas and perspectives to the table, and have connections to schools, families, and other teens. Youth may be seen as more credible than adults to their peers.[^5] _Building Communities from the Inside Out_ provides many suggestions as to how youth can build productive connections with associations, organizations, and other individuals (Chapter 1, pages 33-44).
 *   **Seniors.** Instead of being merely “the elderly,” seniors can be tremendous library assets with their experience and knowledge of cultural and community history. Many retirees have skills they are happy to share with teens; others can help connect the library to associations and organizations they are or were involved with.
 *   **Marginalized groups.** Don’t write off groups that are traditionally thought of as only having needs, not assets, like people with disabilities or people from a lower SES. Everyone is an asset the library could potentially work with.
 
@@ -66,19 +66,19 @@ Institutions (as defined by ABCD) are groups of people brought together professi
 
 *   Even more than associations, institutions are likely to have outreach programs at the ready for the community.
 *   Institutions are also more likely to have space or money to help your teen services.
-*   An institution’s hiring practices can be one of its assets.[^2]
+*   An institution’s hiring practices can be one of its assets.[^6]
 
 ### Methods for learning more {#methods-for-learning-more}
 
 Depending on your situation, you can use surveys or focus groups to learn more about your community’s assets. You can also use the methods described in the Capacity module (interviews and town halls), or any combination of methods.
 
-* **Surveys.** Surveys are a good option for getting succinct information from a large number of people, especially quantitative information. The response rate is often low, however, and you may not always be able to follow-up with respondents to get a better understanding of their responses.For people who are not literate and people who primarily speak other languages, you may need to conduct in-person interviews or provide the survey in multiple languages.[^3] Surveys can be conducted face-to-face, online, by mail, by phone, or on paper that is distributed in the library or at library events.[^2]  
+* **Surveys.** Surveys are a good option for getting succinct information from a large number of people, especially quantitative information. The response rate is often low, however, and you may not always be able to follow-up with respondents to get a better understanding of their responses.For people who are not literate and people who primarily speak other languages, you may need to conduct in-person interviews or provide the survey in multiple languages.[^7] Surveys can be conducted face-to-face, online, by mail, by phone, or on paper that is distributed in the library or at library events.[^6]  
 * **Focus groups.** Focus groups allow you to guide the discussion around a specific question. It is important to have a diverse set of participants so that you don’t just hear one perspective. Focus groups may be cheaper and/or less time-consuming than extensive surveys (depending on how they are administered), and can provide deeper insights. However, you cannot hear from as many people in a focus group.
 
 In addition, consider the following sources when you are identifying assets:
 
-*   **Directories** like the yellow pages, or a list of local businesses from your Chamber of Commerce.[^4]  
-*   Your **local newspaper** or community newsletter, along with community bulletin boards in coffeehouses, community centers and other gathering places.[^4]
+*   **Directories** like the yellow pages, or a list of local businesses from your Chamber of Commerce.[^8]  
+*   Your **local newspaper** or community newsletter, along with community bulletin boards in coffeehouses, community centers and other gathering places.[^8]
 *   **Existing networks**--do you already have partners that can help you identify assets and reach out to contacts? You can also try making new connections to ask for help--civic associations, clubs and coalitions, etc.
 *   **Other Community Institutions** like hospitals, churches, and parks and recreation facilities.
 
@@ -86,10 +86,10 @@ In addition, consider the following sources when you are identifying assets:
 
 ***
 
-[^1]: Kretzmann, John P., and John L. McKnight. Building from the inside out: A Path toward Finding and Mobilizing a Community’s Assets. Chicago, IL: ACTA Publications, 1993, pages 30-31.
+[^5]: Kretzmann, John P., and John L. McKnight. Building from the inside out: A Path toward Finding and Mobilizing a Community’s Assets. Chicago, IL: ACTA Publications, 1993, pages 30-31.
 
-[^2]: Green, Gary Paul. “Community Asset Mapping and Surveys.” In An Introduction to Community Development, edited by Rhonda Phillips and Robert Pittman. New York, NY: Routledge, 2014.
+[^6]: Green, Gary Paul. “Community Asset Mapping and Surveys.” In An Introduction to Community Development, edited by Rhonda Phillips and Robert Pittman. New York, NY: Routledge, 2014.
 
-[^3]: Rotary International. **[Community Assessment Tools: A Resource for Rotary Projects](https://my.rotary.org/en/document/community-assessment-tools)**. Evanston, IL: Rotary International, 2015.
+[^7]: Rotary International. **[Community Assessment Tools: A Resource for Rotary Projects](https://my.rotary.org/en/document/community-assessment-tools)**. Evanston, IL: Rotary International, 2015.
 
-[^4]: Health DATA Program. “**[Section 1: Asset Mapping](http://healthpolicy.ucla.edu/programs/health-data/trainings/Documents/tw_cba20.pdf)**.” UCLA Center for Health Policy Research, 2005.
+[^8]: Health DATA Program. “**[Section 1: Asset Mapping](http://healthpolicy.ucla.edu/programs/health-data/trainings/Documents/tw_cba20.pdf)**.” UCLA Center for Health Policy Research, 2005.

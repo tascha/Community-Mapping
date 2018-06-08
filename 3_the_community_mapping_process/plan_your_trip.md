@@ -2,7 +2,7 @@
 
 ### Where are you going? {#where-are-you-going}
 
-Gregory Ryan and Cate Bourke (2008)[^1] recommend thinking about your community work as a story about a journey, starting with “once upon a time” and ending with your vision for the community. “Beginning with the end in mind,” they say, will help guide the questions you ask and the methods you use as you work through this process. This vision should align with the perspectives of the youth and other community members you will talk to, so you may wish to revisit this vision at different points as you work through the process.
+Gregory Ryan and Cate Bourke (2008)[^3] recommend thinking about your community work as a story about a journey, starting with “once upon a time” and ending with your vision for the community. “Beginning with the end in mind,” they say, will help guide the questions you ask and the methods you use as you work through this process. This vision should align with the perspectives of the youth and other community members you will talk to, so you may wish to revisit this vision at different points as you work through the process.
 
 Why are you conducting this community mapping project? Your goal may be broad, such as finding ways to improve or diversify your teen programs. Or you may have a much more specific goal, like finding locations for field trips or prizes for a summer learning program. Your goal will affect how you go about creating your community map and the scale of your activities.
 
@@ -12,10 +12,10 @@ Questions to think about are:
 *   What kind of assets will you include? Depending on the purpose of your mapping project--or your resources--you may want to focus only on businesses, or only physical resources like space.
 
 <div class="table-format sidebar"><span class="title"><h5>WHAT IS A COMMUNITY?</h5></span>
-
+<p>John McKnight & the Minnesota Governor's Council on Developmental Disabilites, "<a href="https://youtu.be/3UpOSFL5mq4"><b>Professor John McKnight: Defining "community" and "neighborhood"</b></a>," 4:26, 2014.</p>
 <iframe width="740" height="400" border="none" src="https://youtu.be/3UpOSFL5mq4">
 </iframe>
-<p>John McKnight& the Minnesota Governor's Council on Developmental Disabilites, "<a href="https://youtu.be/3UpOSFL5mq4"><b>Professor John McKnight: Defining "community" and "neighborhood"</b></a>," 4:26, 2014.</p>
+
 </div>
 
 ### Who will help you along the way? {#who-will-help-you-along-the-way}
@@ -48,4 +48,4 @@ While you are planning and assembling your team (if not earlier) try to find out
 
 ***
 
-[^1]: Ryan, Gregory, and Cate Bourke. “**[CCAMP System Handbook](http://www.nurturedevelopment.org/wp-content/uploads/2016/01/Asset-Mapping-CCAMP_System_Handbook.pdf)**.” Connecticut Assets Network, 2008.
+[^3]: Ryan, Gregory, and Cate Bourke. “**[CCAMP System Handbook](http://www.nurturedevelopment.org/wp-content/uploads/2016/01/Asset-Mapping-CCAMP_System_Handbook.pdf)**.” Connecticut Assets Network, 2008.

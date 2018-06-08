@@ -11,10 +11,10 @@ The <a href="http://healthpolicy.ucla.edu/programs/health-data/trainings/Documen
 Your map can be small and simple or complex and far-reaching. You can choose how detailed you want your map to be based on your needs and your resources. You can also consider it an iterative process—you could start by looking only at businesses within one mile of your library, for instance, with plans to add community organizations later, and then expand to two miles.
 
 <div class="table-format orange"><span class="title"><h5>SCALE UP OR SCALE DOWN</h5></span>
-Since every community is different, the community mapping process will vary from library to library. A large urban library in a big city may go through an extensive process involving focus groups and interviews with dozens of community members and representatives of local organizations, but a busy “everything librarian” in a rural one-room library can benefit from a scaled-down version involving an afternoon with a search engine and some reflection. This module will teach you the principles of community mapping and suggest strategies for scaling the process up or down so you can make a plan that will fit your library, your community, and your resources.
+<p>Since every community is different, the community mapping process will vary from library to library. A large urban library in a big city may go through an extensive process involving focus groups and interviews with dozens of community members and representatives of local organizations, but a busy “everything librarian” in a rural one-room library can benefit from a scaled-down version involving an afternoon with a search engine and some reflection. This module will teach you the principles of community mapping and suggest strategies for scaling the process up or down so you can make a plan that will fit your library, your community, and your resources.</p>
 </div>
 
 <div class="table-format case-study"><span class="title"><h5>THE POWER OF A SIMPLE ASSET MAP</h5></span>
-
+<p>Croydon Voluntary Action, "<a href="https://youtu.be/hX4pNY1S338"><b>Asset map movie</b></a>," 1:20, 2015.</p>
 <iframe width="740" height="400" border="none" src="https://www.youtube.com/embed/hX4pNY1S338">
 </iframe></div>
