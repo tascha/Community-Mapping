@@ -4,7 +4,7 @@ This section discusses learning about individuals, associations, and institution
 
 ### Learning about individuals {#learning-about-individuals}
 
->“Each time a person uses his or her capacity, the community is stronger and the person more powerful. That is why strong communities are basically places where the capacities of local residents are identified, valued, and used.” <br/> -- Kretzmann, J. P., &amp; McKnight, J. L. (1993). Building from the inside out: A path toward finding and mobilizing a community’s assets. Chicago, IL: ACTA Publications. P. 13.
+>“Each time a person uses his or her capacity, the community is stronger and the person more powerful. That is why strong communities are basically places where the capacities of local residents are identified, valued, and used.” <br/> -- Kretzmann, John P., and John L. McKnight. Building from the inside out: A Path toward Finding and Mobilizing a Community’s Assets. Chicago, IL: ACTA Publications, 1993, page 13.
 
 The most foundational assets of a community are the individuals that form it. Every individual has gifts that they can share with their community -- like knowledge, a skill, or physical space, to name just a few.
 
@@ -25,7 +25,7 @@ The most foundational assets of a community are the individuals that form it. Ev
 <p>Kretzmann & McKnight argue that need-focused labels, like “ex-convict”, “elderly,” “illiterate”, and “gang member” reflect and reinforce society’s belief that these “needy” people are “empty” and without anything to contribute to their community. Asset-based development means looking past labels to each individual’s specific gifts.</p>
 <p><i>For example, “She is a pregnant teenager. She needs counseling, therapy, residential services, special education.” But also, “She is Mary Smith. She has a miraculously beautiful voice. We need her in the choir. She needs a record producer.” Her label, pregnant teenager, tells of emptiness and calls forth rejection, isolation and treatment. Her name, Mary Smith, tells of her gifts and evokes community and contributions.</i></p>
 
-Kretzmann, J. P., & McKnight, J. L. (1993). Building from the inside out: A path toward finding and mobilizing a community’s assets. Chicago, IL: ACTA Publications. pp27-28</div>
+<p>Kretzmann, John P., and John L. McKnight. Building from the inside out: A Path toward Finding and Mobilizing a Community’s Assets. Chicago, IL: ACTA Publications, 1993, pages 27-28.</p></div>
 
 
 ### Associations {#associations}
@@ -72,28 +72,25 @@ Institutions (as defined by ABCD) are groups of people brought together professi
 
 Depending on your situation, you can use surveys or focus groups to learn more about your community’s assets. You can also use the methods described in the Capacity module (interviews and town halls), or any combination of methods.
 
-* **Surveys.** Surveys are a good option for getting succinct information from a large number of people, especially quantitative information. The response rate is often low, however, and you may not always be able to follow-up with respondents to get a better understanding of their responses.For people who are not literate and people who primarily speak other languages, you may need to conduct in-person interviews or provide the survey in multiple languages.[^3] Surveys can be conducted face-to-face, online, by mail, by phone, or on paper that is distributed in the library or at library events.[^4]  
+* **Surveys.** Surveys are a good option for getting succinct information from a large number of people, especially quantitative information. The response rate is often low, however, and you may not always be able to follow-up with respondents to get a better understanding of their responses.For people who are not literate and people who primarily speak other languages, you may need to conduct in-person interviews or provide the survey in multiple languages.[^3] Surveys can be conducted face-to-face, online, by mail, by phone, or on paper that is distributed in the library or at library events.[^2]  
 * **Focus groups.** Focus groups allow you to guide the discussion around a specific question. It is important to have a diverse set of participants so that you don’t just hear one perspective. Focus groups may be cheaper and/or less time-consuming than extensive surveys (depending on how they are administered), and can provide deeper insights. However, you cannot hear from as many people in a focus group.
 
 In addition, consider the following sources when you are identifying assets:
 
-*   **Directories** like the yellow pages, or a list of local businesses from your Chamber of Commerce.[^5]  
-*   Your **local newspaper** or community newsletter, along with community bulletin boards in coffeehouses, community centers and other gathering places.[^6]
+*   **Directories** like the yellow pages, or a list of local businesses from your Chamber of Commerce.[^4]  
+*   Your **local newspaper** or community newsletter, along with community bulletin boards in coffeehouses, community centers and other gathering places.[^4]
 *   **Existing networks**--do you already have partners that can help you identify assets and reach out to contacts? You can also try making new connections to ask for help--civic associations, clubs and coalitions, etc.
 *   **Other Community Institutions** like hospitals, churches, and parks and recreation facilities.
 
-<div class="table-format orange">For a small project, focus on pre-existing resources (directories, databases). For more in-depth information, focus on people who are easy to reach out to (patrons, partners) or who are key community members.</div>
+<div class="table-format orange"><p>For a small project, focus on pre-existing resources (directories, databases). For more in-depth information, focus on people who are easy to reach out to (patrons, partners) or who are key community members.</p></div>
 
 ***
 
-[^1]: (Kretzmann &amp; McKnight, 1993, p.30-31)
+[^1]: Kretzmann, John P., and John L. McKnight. Building from the inside out: A Path toward Finding and Mobilizing a Community’s Assets. Chicago, IL: ACTA Publications, 1993, pages 30-31.
 
-[^2]: Green, G. P. (2014). Community asset mapping and surveys. In R. Phillips &amp; R. Pittman (Eds.), _An introduction to community development_. New York, NY: Routledge. P222\.
+[^2]: Green, Gary Paul. “Community Asset Mapping and Surveys.” In An Introduction to Community Development, edited by Rhonda Phillips and Robert Pittman. New York, NY: Routledge, 2014.
 
-[^3]: Rotary International. (2015). _Community assessment tools: A resource for Rotary projects_. Evanston, IL: Rotary International. Retrieved from https://my.rotary.org/en/document/community-assessment-tools
 
-[^4]: Green, G. P. (2014). Community asset mapping and surveys. In R. Phillips &amp; R. Pittman (Eds.), _An introduction to community development_. New York, NY: Routledge. P217
+[^3]: Rotary International. **[Community Assessment Tools: A Resource for Rotary Projects](https://my.rotary.org/en/document/community-assessment-tools)**. Evanston, IL: Rotary International, 2015.
 
-[^5]: Health DATA Program. (n.d.). Section 1: Asset mapping. UCLA Center for Health Policy Research. Retrieved from http://healthpolicy.ucla.edu/programs/health-data/trainings/Documents/tw_cba20.pdf
-
-[^6]: Health DATA Program. (n.d.). Section 1: Asset mapping. UCLA Center for Health Policy Research. Retrieved from http://healthpolicy.ucla.edu/programs/health-data/trainings/Documents/tw_cba20.pdf
+[^4]: Health DATA Program. “**[Section 1: Asset Mapping](http://healthpolicy.ucla.edu/programs/health-data/trainings/Documents/tw_cba20.pdf)**.” UCLA Center for Health Policy Research, 2005.

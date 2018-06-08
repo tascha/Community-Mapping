@@ -1,11 +1,11 @@
 # 1\. Introduction {#1-introduction}
 
-<div class="table-format objectives"><span class="title"><h5>LEARNING OBJECTIVES</h5></span>
-After completing this module, you will be able to:
-<ul><li>Understand what community mapping is and how it can benefit your library (Section 1: Introduction)</li><li>
-Recognize the assets in your community (Section 2: Community Assets)</li><li>
-Describe the process of creating a community asset map (Section 3: The Community Mapping Process)</li><li>
-Understand what to do with a completed community asset map (Section 4: Now What?)</li></ul></div>
+<div class="table-format objectives"><span class="title"><h5>LEARNING OBJECTIVES FOR THIS MODULE</h5></span>
+<b>After completing this module, you will be able to:</b>
+<ul><li>Understand what community mapping is and how it can benefit your library (<a href="/1_introduction/">Section 1: Introduction</a>)</li><li>
+Recognize the assets in your community (<a href="/2_community_assets/">Section 2: Community Assets</a>)</li><li>
+Describe the process of creating a community asset map (<a href="3_the_community_mapping_process/">Section 3: The Community Mapping Process</a>)</li><li>
+Understand what to do with a completed community asset map (<a href="/4_now_what.html">Section 4: Now What?</a>)</li></ul></div>
 
 > “You have to look at your local industry, study it carefully, interpret your local demographic, interpret your local workforce, and then try to find a newsworthy, best practice program that is hands-on, self-directed, project-based, and fun, and teens will come in.” <br/>-- Urban Western Library
 

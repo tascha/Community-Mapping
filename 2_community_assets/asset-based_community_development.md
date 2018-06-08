@@ -2,10 +2,13 @@
 
 The asset-based community development (ABCD) model of community development, developed by John Kretzmann and John McKnight, focuses on the strengths of a community, rather than its weaknesses, as is often typical in community development efforts. ABCD identifies five types of assets: individuals, associations (groups of individuals), institutions (formal and professional groups of people like government agencies), physical resources (like land or money), and — most importantly — connections (relationships between assets).
 
-Watch as Cormac Russell explains why it’s important to focus on the strengths of communities, not the weaknesses:
+<div class="table-format case-study"><span class="title"><h5>FROM WHAT'S WRONG TO WHAT'S STRONG</h5>
+<p>Watch as Cormac Russell explains why it’s important to focus on the strengths of communities, not the weaknesses (18:07):</p>
 
 <iframe width="740" height="400" border="none" src="https://www.youtube.com/embed/a5xR4QB1ADw">
 </iframe>
+</div>
+<p>Cormac Russell & TEDx Exeter, "<a href="https://youtu.be/a5xR4QB1ADw"><b>Sustainable community development: from what's wrong to what's strong</b></a>," 18:07, 2016.</p></div>
 
 <div class="table-format case-study"><span class="title"><h5>GUIDING PRINCIPLES OF ABCD</h5></span>
 <a href="http://www.nurturedevelopment.org/wp-content/uploads/2016/01/Asset-Mapping-CCAMP_System_Handbook.pdf">Ryan & Bourke (2008, p114)</a> set forth the following guiding principles for an asset-based community development effort. 
@@ -21,19 +24,17 @@ For more about each principle, see pages 114-115 of the <a href="http://www.nurt
 * **Connections.** Connections are the relationships between the other types of assets. Creating new connections between community assets can greatly increase the opportunities for connected learning in your library. You can think of connections as an expression of social capital.[^1]
 
 <div class="table-format sidebar"><span class="title"><h5>STONE SOUP</h5></span>
-
-<iframe width="740" height="400" border="none" src="https://www.youtube.com/embed/2X295Nnagvw">
-</iframe>
-
 <p>Ryan and Bourke (2008, p143) compare community assets to the ingredients of a “stone soup.” In isolation, an individual or organization might not think their “gifts” amount to much. But in combination, an entire community working together can produce something greater than the sum of its parts. 
 </p>
+<iframe width="740" height="400" border="none" src="https://www.youtube.com/embed/2X295Nnagvw">
+</iframe>
+<p>iStoryBooks, "<a href="https://youtu.be/2X295Nnagvw"><b>Story for children - STONE SOUP</b></a>," 7:09, 2014.</p>
 </div>
 
 <div class="table-format additional-resources"><span class="title"><h5>ADDITIONAL RESOURCES</h5></span>
 <ul><li><a href="https://resources.depaul.edu/abcd-institute/resources/Documents/WhatisAssetBasedCommunityDevelopment.pdf">What is Asset Based Community Development?</a> (Collaborative For Neighborhood Transformation, 2016).</li><li><a href="https://sustainingcommunity.wordpress.com/2012/05/30/what-is-the-strengths-perspective/">What is the Strengths Perspective?</a> (Graeme Stuart, 2012).</li><li><a href="https://www.youtube.com/watch?v=LW-XOqsOzuE&feature=youtu.be">Professor John McKnight: How Did You Become Interested in Neighborhoods?</a> (Minnesota Governor’s Council on Developmental Disabilities, 2014) In this short interview clip, John McKnight describes how his local librarian helped spark his interest in neighborhoods and communities.</li><li><a href="http://www.nurturedevelopment.org/wp-content/uploads/2016/01/Asset-Mapping-CCAMP_System_Handbook.pdf">CCAMP System Handbook</a> (Gregory Ryan & Cate Bourke, 2008). Although the Connecticut Asset Network appears to be defunct, this handbook has advice and materials for larger asset mapping projects.</li></ul></div>
 
  ***
- 
- [^1]  Collaborative For Neighborhood Transformation. (2016). What is asset based community development? ABCD Institute. Retrieved from https://resources.depaul.edu/abcd-institute/resources/Documents/WhatisAssetBasedCommunityDevelopment.pdf Page 4 
+ [^1] Collaborative For Neighborhood Transformation. “[What Is Asset Based Community Development?](https://resources.depaul.edu/abcd-institute/resources/Documents/WhatisAssetBasedCommunityDevelopment.pdf)” ABCD Institute, 2016, page 4. 
 
 

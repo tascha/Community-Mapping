@@ -3,7 +3,7 @@
 > “These are the people in your neighborhood, in your neighborhood, in your neighborhood
 Oh these are the people in your neighborhood
 They’re the people that you meet when you’re walking down the street
-They’re the people that you meet each day.” <br/> -- Sesame Street
+They’re the people that you meet each day.” <br/> -- Sesame Street, _**[People in Your Neighborhood](https://youtu.be/V2bbnlZwlGQ)**_
 
 A guiding principle of ABCD is to keep “citizens” at the center, listening instead of telling, asking questions instead of delivering answers.[^1] Throughout this process, remember who you are doing this for, and keep teens at the center.
 
@@ -15,4 +15,4 @@ Are there groups that are not currently at the table with you as you plan progra
 
 ***
 
-[^1]: Collaborative For Neighborhood Transformation. (2016). What is asset based community development? ABCD Institute. Retrieved from
+[^1]: Collaborative For Neighborhood Transformation. “**[What Is Asset Based Community Development?](https://resources.depaul.edu/abcd-institute/resources/Documents/WhatisAssetBasedCommunityDevelopment.pdf)**” ABCD Institute, 2016.
